@@ -3,6 +3,7 @@
 <li>🔭 programming student</li>
 <li>🌱 html/css/js</li>
 <li>😄 pronouns: he/him</li>
+<li>💻 learning: switch ui</li>
 <br>
 <div>
   <div class='gif'>
