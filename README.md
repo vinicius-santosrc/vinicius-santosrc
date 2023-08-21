@@ -1,25 +1,32 @@
-<h2>E ai? Me chamo <b>Vinícius da Silva Santos</b></h2>
-<p>Algumas informações sobre mim:</p>
-<li>🔭 Programming student</li>
-<li>🌱 Html/css/js</li>
-<li>😄 Pronouns: he/him</li>
-<li>💻 Learning: switch</li>
+<h2>Olá, eu sou <b>Vinícius Santos.</b></h2>
+
+<li> ESTUDANTE 🔭</li>
+<li>🌱 REACT, NODEJS, TYPESCRIPT</li>
+<li>APRENDENDO 💻: <b>Next JS</b></li>
 <br>
 <br>
 <div class='icons'>
   <div class='icons-itens' style='display: flex; justify-content: center;'>
-    <h1></h1>
+    <img width="40px" height="40px" src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png">
+    <!-- REACT --> 
+    <img width="45px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+    <!-- NODEJS --> 
+    <img width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
+    <!-- TYPESCRIPT --> 
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
+    <!-- FIREBASE -->
+    <img width="40px" height="40px" src="https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s900-c-k-c0x00ffffff-no-rj">
     <!-- JS --> 
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png">
     <!-- HTML --> 
-    <img width="50px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png">
+    <img width="40px" height="40px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png">
     <!-- CSS --> 
-    <img width="35px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png">
-    <!-- PYTHON --> 
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png">
   </div>
 </div>
 
+
 <h2></h2>
+<a href="#">ACESSE MEU PORTFÓLIO AQUI</a>
 <br>
 
