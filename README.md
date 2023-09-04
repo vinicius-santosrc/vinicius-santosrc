@@ -12,8 +12,6 @@
     <img width="45px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
     <!-- NODEJS --> 
     <img width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
-    <!-- TYPESCRIPT --> 
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">
     <!-- FIREBASE -->
     <img width="40px" height="40px" src="https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s900-c-k-c0x00ffffff-no-rj">
     <!-- JS --> 
