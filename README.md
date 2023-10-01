@@ -1,4 +1,4 @@
-<h2>Olá, eu sou <b>Vinícius Santos.</b></h2>
+![image](https://github.com/vinicius-santosrc/vinicius-santosrc/assets/88507996/4fb94dca-a731-49f2-a7eb-9d23fd95e048)<h2>Olá, eu sou <b>Vinícius Santos.</b></h2>
 
 <li> ESTUDANTE 🔭</li>
 <li>🌱 REACT, NODEJS, TYPESCRIPT</li>
@@ -14,6 +14,8 @@
     <img width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
     <!-- FIREBASE -->
     <img width="40px" height="40px" src="https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s900-c-k-c0x00ffffff-no-rj">
+    <!-- APPWRITE -->
+    <img width="40px" height="40px" src="https://seeklogo.com/images/A/appwrite-logo-D33B39992A-seeklogo.com.png">
     <!-- JS --> 
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png">
     <!-- HTML --> 
