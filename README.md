@@ -1,4 +1,4 @@
-![image](https://github.com/vinicius-santosrc/vinicius-santosrc/assets/88507996/4fb94dca-a731-49f2-a7eb-9d23fd95e048)<h2>Olá, eu sou <b>Vinícius Santos.</b></h2>
+<h2>Olá, eu sou <b>Vinícius Santos.</b></h2>
 
 <li> ESTUDANTE 🔭</li>
 <li>🌱 REACT, NODEJS, TYPESCRIPT</li>
