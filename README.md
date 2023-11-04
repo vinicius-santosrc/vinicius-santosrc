@@ -27,6 +27,6 @@
 
 
 <h2></h2>
-<a href="#">ACESSE MEU PORTFÓLIO AQUI</a>
+<a href="https://portfolio-viniciiuss.vercel.app" target="_blank">ACESSE MEU PORTFÓLIO AQUI</a>
 <br>
 
