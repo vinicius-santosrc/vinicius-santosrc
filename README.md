@@ -6,20 +6,18 @@
 <br>
 <div class='icons'>
   <div class='icons-itens' style='display: flex; justify-content: center;'>
-    <!-- REACT --> 
-    <img width="45px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-    <!-- NODEJS --> 
-    <img width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
-    <!-- FIREBASE -->
-    <img width="40px" height="40px" src="https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s900-c-k-c0x00ffffff-no-rj">
-    <!-- APPWRITE -->
-    <img width="60px" height="40px" src="https://seeklogo.com/images/A/appwrite-logo-D33B39992A-seeklogo.com.png">
     <!-- JS --> 
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png">
+    <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png">
+    <!-- FIREBASE -->
+    <img width="30px" height="30px" src="https://yt3.googleusercontent.com/GsP5Yvc5jOSop4SJf_75wdOYaEbO-7ZyYhnARodAGRnEMh-OQjGPGzUz2ZtzsHPtqFyHGvmbEtI=s900-c-k-c0x00ffffff-no-rj">
+    <!-- REACT --> 
+    <img width="35px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
     <!-- HTML --> 
-    <img width="40px" height="40px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png">
+    <img width="25px" height="30px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png">
     <!-- CSS --> 
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png">
+    <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png">
+     <!-- APPWRITE -->
+    <img width="30px" height="25px" src="https://seeklogo.com/images/A/appwrite-logo-D33B39992A-seeklogo.com.png">
   </div>
 </div>
 
