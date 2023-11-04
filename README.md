@@ -1,13 +1,11 @@
 <h2>Olá, eu sou <b>Vinícius Santos.</b></h2>
 
-<li> ESTUDANTE 🔭</li>
-<li>🌱 REACT, NODEJS, TYPESCRIPT</li>
-<li>APRENDENDO 💻: <b>Next JS</b></li>
+<p>Desenvolvedor FullStack 🔭</p>
+<p>💻 Aprendendo atualmente: <b>Next JS</b></p>
 <br>
 <br>
 <div class='icons'>
   <div class='icons-itens' style='display: flex; justify-content: center;'>
-    <img width="40px" height="40px" src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png">
     <!-- REACT --> 
     <img width="45px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
     <!-- NODEJS --> 
@@ -27,6 +25,8 @@
 
 
 <h2></h2>
-<a href="https://portfolio-viniciiuss.vercel.app" target="_blank">ACESSE MEU PORTFÓLIO AQUI</a>
+<li><a href="https://portfolio-viniciiuss.vercel.app" target="_blank">ACESSE MEU PORTFÓLIO</a></li>
+<br>
+<li><a href="https://www.linkedin.com/in/vinicius-santos-339428286/" target="_blank">LINKEDIN</a></li>
 <br>
 
