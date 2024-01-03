@@ -1,7 +1,6 @@
-<h2>Olá, eu sou <b>Vinícius Santos.</b></h2>
-
-<p>Desenvolvedor FullStack 🔭</p>
-<p>💻 Aprendendo atualmente: <b>Next JS</b></p>
+<h2>Welcome to My Profile!</h2>
+<p>I'm a front-end developer focus in ReactJS.</p>
+<p>Learning: <b>Next JS</b></p>
 <br>
 <br>
 <div class='icons'>
@@ -23,7 +22,7 @@
 
 
 <h2></h2>
-<li><a href="https://portfolio-viniciiuss.vercel.app" target="_blank">ACESSE MEU PORTFÓLIO</a></li>
+<li><a href="https://portfolio-viniciiuss.vercel.app" target="_blank">PORTFÓLIO</a></li>
 <br>
 <li><a href="https://www.linkedin.com/in/vinicius-santos-339428286/" target="_blank">LINKEDIN</a></li>
 <br>
