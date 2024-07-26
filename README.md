@@ -34,7 +34,7 @@
 </div>
 <div class='list-items'>
 <h5>Links</h5>
-  <li><a href="https://portfolio-viniciiuss.vercel.app" target="_blank">Portfólio</a></li>
+  <li><a href="https://portfolio-viniciiuss-projects.vercel.app/" target="_blank">Portfólio</a></li>
   <li><a href="mailto:viniciusssantos.pa@gmail.com" target="_blank">E-mail</a></li>
   <li><a href="https://www.linkedin.com/in/vinicius-santos-339428286/" target="_blank">LinkedIn</a></li>
   <br>
