@@ -8,7 +8,7 @@
   <h5>Skills</h5>
   <ul>
     <li>Mobile with React Native</li>
-    <li>Front-End with ReactJS</li>
+    <li>Front-End with ReactJS and Angular</li>
     <li>Back-End with NodeJS</li>
     <li>Database services with SQL</li>
   </ul>
